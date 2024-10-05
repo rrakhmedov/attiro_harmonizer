@@ -1,0 +1,14 @@
+import json
+import pandas as pandas
+
+class FashionHarmonizer():
+    def __init__(self) -> None:
+        self.ref_fashion_rules=ref_fashion_rules
+        self.ref_clothing_types=ref_clothing_types
+        self.ref_llm_style_types=ref_llm_style_types
+        self.ref_llm_style_combination = ref_llm_style_combination
+    
+    def flaten_json():
+         
+    def get_harmonized_json(self):
+

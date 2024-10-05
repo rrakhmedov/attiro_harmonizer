@@ -1,0 +1,87 @@
+[
+    {
+        "type": "common",
+        "name": "length",
+        "values": [
+            "cropped",
+            "regular",
+            "extended"
+        ]
+    },
+    {
+        "type": "common",
+        "name": "silhouette",
+        "values": [
+            "slim",
+            "regular",
+            "oversize",
+            "wide(?)"
+        ]
+    },
+    {
+        "type": "top",
+        "name": "neckline",
+        "values": [
+            "round",
+            "V-neck",
+            "U-neck",
+            "boat",
+            "cowl_collar",
+            "high_collar"
+        ]
+    },
+    {
+        "type": "bottom",
+        "name": "waist",
+        "values": [
+            "regular",
+            "high"
+        ]
+    },
+    {
+        "type": "bottom",
+        "name": "trousers_style",
+        "values": [
+            "tapered",
+            "straight",
+            "wide",
+            "flared",
+            "baggy"
+        ]
+    },
+    {
+        "type": "bottom",
+        "name": "skirts_style",
+        "values": [
+            "tapered",
+            "straight",
+            "A-line"
+        ]
+    },
+    {
+        "type": "bottom",
+        "name": "skirts_length",
+        "values": [
+            "midi",
+            "maxi"
+        ]
+    },
+    {
+        "type": "footwear",
+        "name": "sneakers_type",
+        "values": [
+            "low-top",
+            "high-top"
+        ]
+    },
+    {
+        "type": "footwear",
+        "name": "heel_type",
+        "values": [
+            "stiletto",
+            "platform",
+            "heel",
+            "flat"
+        ]
+    }
+]
