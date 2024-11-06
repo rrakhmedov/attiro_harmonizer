@@ -1,0 +1,212 @@
+[
+	{
+			"category": "top",
+			"subcategory": "hoodies&sweatshirts",
+			"type": "sweatshirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "hoodies&sweatshirts",
+			"type": "hoodie"
+	},
+	{
+		"category": "top",
+		"subcategory": "sweaters",
+		"type": "turtleneck"
+	},
+	{
+			"category": "top",
+			"subcategory": "sweaters",
+			"type": "sweater"
+	},
+	{
+			"category": "top",
+			"subcategory": "sweaters",
+			"type": "cardigan"
+	},
+	{
+			"category": "top",
+			"subcategory": "sweaters",
+			"type": "vest"
+	},
+	{
+			"category": "top",
+			"subcategory": "t-shirts",
+			"type": "t-shirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "t-shirts",
+			"type": "long_sleeve_t-shirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "t-shirts",
+			"type": "polo"
+	},
+	{
+			"category": "top",
+			"subcategory": "shirts",
+			"type": "short_sleeve_shirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "shirts",
+			"type": "long_sleeve_shirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "shirts",
+			"type": "denim_shirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "shirts",
+			"type": "linen_shirt"
+	},
+	{
+			"category": "top",
+			"subcategory": "blazers",
+			"type": "blazer"
+	},
+	{
+		"category": "bottom",
+		"subcategory": "trousers",
+		"type": "joggers"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "trousers",
+			"type": "sweatpants"
+	},
+	{
+		"category": "bottom",
+		"subcategory": "trousers",
+		"type": "classic_trousers"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "trousers",
+			"type": "casual_trousers"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "trousers",
+			"type": "cargo"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "trousers",
+			"type": "linen_trousers"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "jeans",
+			"type": "jeans"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "shorts",
+			"type": "casual_shorts"
+	},
+	{
+			"category": "bottom",
+			"subcategory": "shorts",
+			"type": "denim_shorts"
+	},
+	{
+		"category": "outerwear",
+		"subcategory": "jackets",
+		"type": "leather_jacket"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "jackets",
+			"type": "down_jacket"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "jackets",
+			"type": "denim_jacket"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "jackets",
+			"type": "bomber_jacket"
+	},
+	{
+		"category": "outerwear",
+		"subcategory": "jackets",
+		"type": "sleeveless_jacket"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "jackets",
+			"type": "windbreaker"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "jackets",
+			"type": "parka"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "jackets",
+			"type": "demi-season_jacket"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "coats",
+			"type": "coat"
+	},
+	{
+			"category": "outerwear",
+			"subcategory": "coats",
+			"type": "trench_coat"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "sneakers",
+			"type": "low-top_sneakers"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "sneakers",
+			"type": "high-top_sneakers"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "boots",
+			"type": "boots"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "boots",
+			"type": "chelsea_boots"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "boots",
+			"type": "chukka_boots"
+	},
+	{
+		"category": "footwear",
+		"subcategory": "boots",
+		"type": "uggs_boots"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "dress_shoes",
+			"type": "oxford_shoes"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "dress_shoes",
+			"type": "dress_shoes"
+	},
+	{
+			"category": "footwear",
+			"subcategory": "loafers",
+			"type": "loafers"
+	}
+]

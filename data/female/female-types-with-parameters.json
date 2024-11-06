@@ -1,0 +1,432 @@
+[
+	{
+			"clothes_type": "sweatshirt",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					},
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "hoodie",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					},
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "sweater",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					},
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck", "cowl_neck", "high_collar"]
+					}
+			]
+	},
+	{
+			"clothes_type": "cardigan",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["cropped", "regular", "extended"]
+					},
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "t-shirt",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					},
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck"]
+					}
+			]
+	},
+	{
+		"clothes_type": "long_sleeve_t-shirt",
+		"parameters": [
+				{
+						"name": "fit",
+						"values": ["regular", "oversize"]
+				}
+		]
+	},
+	{
+			"clothes_type": "long_sleeve_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "short_sleeve_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "denim_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "linen_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "short_sleeve_blouse",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "long_sleeve_blouse",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "sleeveless_blouse",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "linen_blouse",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "sleeveless_top",
+			"parameters": [
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "crop_top",
+			"parameters": [
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "U-neck", "boat_neck"]
+					}
+			]
+	},
+	{
+			"clothes_type": "blazer",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["cropped", "regular", "extended"]
+					},
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "sweatpants",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide"]
+					}
+			]
+	},
+	{
+			"clothes_type": "classic_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide", "flared"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "casual_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide", "flared"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "joggers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "cargo",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					}
+			]
+	},
+	{
+			"clothes_type": "leather_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide", "flared"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "linen_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "jeans",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide", "flared", "baggy"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "leather_skirt",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "A-line"]
+					},
+					{
+							"name": "length",
+							"values": ["midi", "maxi"]
+					}
+			]
+	},
+	{
+			"clothes_type": "denim_skirt",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "A-line"]
+					},
+					{
+							"name": "length",
+							"values": ["midi", "maxi"]
+					}
+			]
+	},
+	{
+			"clothes_type": "pleated_skirt",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "A-line"]
+					},
+					{
+							"name": "length",
+							"values": ["midi", "maxi"]
+					}
+			]
+	},
+	{
+			"clothes_type": "knitted_skirt",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "A-line"]
+					},
+					{
+							"name": "length",
+							"values": ["midi", "maxi"]
+					}
+			]
+	},
+	{
+			"clothes_type": "boots",
+			"parameters": [
+					{
+							"name": "heel_type",
+							"values": ["stiletto", "platform", "heel", "flat"]
+					}
+			]
+	},
+	{
+			"clothes_type": "booties",
+			"parameters": [
+					{
+							"name": "heel_type",
+							"values": ["stiletto", "platform", "heel", "flat"]
+					}
+			]
+	},
+	{
+			"clothes_type": "ankle_boots",
+			"parameters": [
+					{
+							"name": "heel_type",
+							"values": ["stiletto", "platform", "heel", "flat"]
+					}
+			]
+	},
+	{
+			"clothes_type": "dress_sandals",
+			"parameters": [
+					{
+							"name": "heel_type",
+							"values": ["stiletto", "platform", "heel", "flat"]
+					}
+			]
+	}
+]
+

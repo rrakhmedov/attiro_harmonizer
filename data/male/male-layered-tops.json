@@ -1,0 +1,191 @@
+[
+	{
+		"layered_top_type": "sweater",
+		"top_list": ["long_sleeve_shirt"],
+		"under_top_required": false
+	},
+	{
+		"layered_top_type": "cardigan",
+		"top_list": ["long_sleeve_shirt", "t-shirt", "turtleneck"],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "vest",
+		"top_list": ["long_sleeve_shirt", "short_sleeve_shirt", "t-shirt", "turtleneck"],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "denim_shirt",
+		"top_list": ["t-shirt"],
+		"under_top_required": false
+	},
+	{
+		"layered_top_type": "long_sleeve_shirt",
+		"top_list": ["t-shirt"],
+		"under_top_required": false
+	},
+	{
+		"layered_top_type": "blazer",
+		"top_list": ["t-shirt", "sweater", "turtleneck", "vest", "long_sleeve_shirt"],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "leather_jacket",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"cardigan", 
+			"vest", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt",
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt", 
+			"linen_shirt"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "down_jacket",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck",
+			"sweater",
+			"cardigan", 
+			"vest",
+			"long_sleeve_t-shirt",
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt", 
+			"linen_shirt",
+			"blazer"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "denim_jacket",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt",
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt", 
+			"linen_shirt"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "bomber",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt"
+		],
+		"under_top_required": true
+	},
+
+	{
+		"layered_top_type": "sleeveless_jacket",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt",
+			"long_sleeve_shirt"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "windbreaker",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"cardigan", 
+			"vest", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt",
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "parka",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"cardigan", 
+			"vest", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt",
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "demi-season_jacket",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"cardigan", 
+			"vest", 
+			"t-shirt", 
+			"polo", 
+			"long_sleeve_t-shirt",
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt", 
+			"blazer"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "coat",
+		"top_list": [
+			"turtleneck", 
+			"sweater", 
+			"cardigan", 
+			"vest", 
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt", 
+			"blazer"
+		],
+		"under_top_required": true
+	},
+	{
+		"layered_top_type": "trench_coat",
+		"top_list": [
+			"sweatshirt", 
+			"hoodie", 
+			"turtleneck", 
+			"sweater", 
+			"cardigan", 
+			"vest", 
+			"short_sleeve_shirt", 
+			"long_sleeve_shirt", 
+			"blazer"
+		],
+		"under_top_required": true
+	}
+]

@@ -1,0 +1,228 @@
+[
+	{
+			"clothes_type": "sweatshirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "hoodie",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "sweater",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck", "cowl_neck", "high_collar"]
+					}
+			]
+	},
+	{
+			"clothes_type": "cardigan",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					},
+					{
+							"name": "zipper_type",
+							"values": ["zipper", "buttons"]
+					}
+			]
+	},
+	{
+			"clothes_type": "t-shirt",
+			"parameters": [
+					{
+							"name": "length",
+							"values": ["regular", "extended"]
+					},
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					},
+					{
+							"name": "neckline",
+							"values": ["round_neck", "V-neck"]
+					}
+			]
+	},
+	{
+		"clothes_type": "long_sleeve_t-shirt",
+		"parameters": [
+				{
+						"name": "fit",
+						"values": ["regular", "oversize"]
+				}
+		]
+	},
+	{
+		"clothes_type": "denim_shirt",
+		"parameters": [
+				{
+						"name": "fit",
+						"values": ["slim", "regular", "oversize"]
+				}
+		]
+	},
+	{
+			"clothes_type": "long_sleeve_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "short_sleeve_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "linen_shirt",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["regular", "oversize"]
+					}
+			]
+	},
+	{
+			"clothes_type": "blazer",
+			"parameters": [
+					{
+							"name": "fit",
+							"values": ["slim", "regular"]
+					}
+			]
+	},
+	{
+		"clothes_type": "joggers",
+		"parameters": [
+				{
+						"name": "fit",
+						"values": ["tapered", "wide"]
+				},
+				{
+						"name": "waist",
+						"values": ["regular", "high"]
+				},
+				{
+						"name": "length",
+						"values": ["cropped", "regular"]
+				}
+		]
+	},
+	{
+			"clothes_type": "sweatpants",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "classic_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "casual_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "cargo",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					}
+			]
+	},
+	{
+			"clothes_type": "linen_trousers",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	},
+	{
+			"clothes_type": "jeans",
+			"parameters": [
+					{
+							"name": "waist",
+							"values": ["regular", "high"]
+					},
+					{
+							"name": "fit",
+							"values": ["tapered", "straight", "wide", "baggy"]
+					},
+					{
+							"name": "length",
+							"values": ["cropped", "regular"]
+					}
+			]
+	}
+]
